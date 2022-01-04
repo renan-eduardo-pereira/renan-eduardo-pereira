@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Renan
-- 👀 I’m interested in frontend development and Python
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning HTML 5, CSS3, JavaScript, Python, Google Apps Script.
 - 📫 How to reach me renan.pereira@rogga.com.br
 
