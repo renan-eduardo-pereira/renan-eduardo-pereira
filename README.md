@@ -1,5 +1,5 @@
 - 🖖🏼 Hello there, I’m Renan
-- 🚀 FullStack developer since 2021 working mainly with TALLStack (Tailwind, Alpine, Laravel and Livewire)
+- 🚀 Software Web Developer since 2021 working mainly with TALLStack (Tailwind, Alpine, Laravel and Livewire)
 - 📚 Currently learning and amazed by the Filament components library
 - ✉️ How to reach me perenan98@gmail.com
 
